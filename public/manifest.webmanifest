@@ -1,0 +1,25 @@
+{
+  "name": "COLOURIA Offline",
+  "short_name": "COLOURIA",
+  "description": "Aplikasi pembelajaran Seni Visual interaktif untuk sekolah rendah.",
+  "lang": "ms",
+  "start_url": "/colouria/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8f3ff",
+  "theme_color": "#7B45E8",
+  "icons": [
+    {
+      "src": "/artoria/assets/images/app_logo.png",
+      "sizes": "528x514",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    { "name": "COLOURIA", "url": "/colouria/index.html" },
+    { "name": "ARTORIA", "url": "/artoria/" },
+    { "name": "Paint Runner", "url": "/paint-runner/" }
+  ]
+}
