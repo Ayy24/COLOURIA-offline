@@ -6,8 +6,6 @@ const nextConfig: NextConfig = {
 
   allowedDevOrigins: ['colouriao9499.builtwithrocket.new'],
 
-  turbopack: {},
-
   images: {
     unoptimized: true,
   },
