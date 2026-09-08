@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 export default function Home() {
   useEffect(() => {
-    window.location.replace("/colouria/index.html");
+    window.location?.replace("/colouria/index.html");
   }, []);
 
   return (
