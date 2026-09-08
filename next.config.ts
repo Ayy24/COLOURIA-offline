@@ -4,6 +4,8 @@ const nextConfig: NextConfig = {
   output: "export",
   trailingSlash: true,
 
+  turbopack: {},
+
   allowedDevOrigins: ['colouriao9499.builtwithrocket.new'],
 
   images: {
